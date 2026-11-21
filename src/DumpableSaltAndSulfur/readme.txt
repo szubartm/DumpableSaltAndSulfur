@@ -1,3 +1,5 @@
+Simple mod that allows you to dump salt and sulfur into the world.
+
 How to install this mod
 =======================
 

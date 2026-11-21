@@ -1,0 +1,15 @@
+﻿{
+  "id": "DumpableSaltAndSulfur",
+  "display_name": "Dumpable Salt and Sulfur",
+  "authors": "szubartm",
+  "version": "1.0.0",
+  "description_short": "A mod that makes Salt and Sulfur dumpable.",
+  "description_long": "A mod that makes Salt and Sulfur dumpable.",
+  "links": ["https://github.com/szubartm"],
+  "primary_dlls": [
+    "DumpableSaltAndSulfur.dll"
+  ],
+  "can_add_to_saved_game": true,
+  "can_remove_from_saved_game": true,
+  "min_game_version": "0.8.8"
+}
